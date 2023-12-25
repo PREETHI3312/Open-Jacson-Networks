@@ -20,8 +20,19 @@ Visual components and Python
 
 
 ## Program
+![image](https://github.com/PREETHI3312/Open-Jacson-Networks/assets/151625222/46f7e29f-9b7e-49b7-8469-c2f4e5832ed4)
+
+
+
+
 
 
 ## Output
+![image](https://github.com/PREETHI3312/Open-Jacson-Networks/assets/151625222/87e685bb-0713-4453-ad30-82a45129a9e4)
+![image](https://github.com/PREETHI3312/Open-Jacson-Networks/assets/151625222/17e9e1d7-217c-4679-bc20-f4be4110f0a4)
+![image](https://github.com/PREETHI3312/Open-Jacson-Networks/assets/151625222/b7bc0469-d409-449f-9f94-b4dc4edd1c6c)
+
+
+
 
 ## Result
