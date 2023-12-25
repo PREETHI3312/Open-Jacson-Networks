@@ -17,6 +17,8 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/PREETHI3312/Open-Jacson-Networks/assets/151625222/592b2c63-3974-40e4-ac25-3580dbb30183)
+
 
 
 ## Program
@@ -36,3 +38,4 @@ Visual components and Python
 
 
 ## Result
+The average number of material in the system and in the conveyor and waiting time are successfully found.
